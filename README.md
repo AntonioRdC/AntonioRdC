@@ -1,6 +1,6 @@
 # Olá, eu sou Antônio Ribeiro 👋
 
-Sou desenvolvedor full‑stack focado em **Node.js**, **TypeScript**, **Next.js**, **NestJS**, **Flutter**, **Django**, **PostgreSQL** e **MongoDB**.
+Sou desenvolvedor back-end focado em **Node.js**, **TypeScript**, **NestJS**, **PostgreSQL** e **MongoDB**. com conhecimento em **Next.js**, **Flutter**, **Django**.
 
 ---
 
