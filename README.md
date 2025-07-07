@@ -17,8 +17,9 @@ Sou desenvolvedor back-end focado em **Node.js**, **TypeScript**, **NestJS**, **
 **Conhecimentos adicionais:**
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
 
 ---
 
