@@ -21,9 +21,7 @@ Sou desenvolvedor full‑stack focado em **Node.js**, **TypeScript**, **Next.js*
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioRdC&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioRdC&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AntonioRdC&theme=dark)  
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=AntonioRdC&theme=react-dark&hide_border=true)  
-![Profile Views](https://gpvc.arturio.dev/AntonioRdC)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AntonioRdC&theme=dark)
 
 ---
 
