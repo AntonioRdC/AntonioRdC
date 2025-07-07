@@ -2,6 +2,8 @@
 
 Sou desenvolvedor back-end focado em **Node.js**, **TypeScript**, **NestJS**, **PostgreSQL** e **MongoDB**. com conhecimento em **Next.js**, **Flutter**, **Django**.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://antdeveloper.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonioribeiroam/)  
 ---
 
 ## 🛠️ Tecnologias
@@ -23,13 +25,4 @@ Sou desenvolvedor back-end focado em **Node.js**, **TypeScript**, **NestJS**, **
 
 ---
 
-## 📊 Estatísticas do GitHub
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioRdC&layout=compact&theme=radical)
-
----
-
-## 🔗 Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://antdeveloper.com.br/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonioribeiroam/)  
