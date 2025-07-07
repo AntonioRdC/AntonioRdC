@@ -27,6 +27,5 @@ Sou desenvolvedor full‑stack focado em **Node.js**, **TypeScript**, **Next.js*
 
 ## 🔗 Connect
 
-[![GitHub followers](https://img.shields.io/github/followers/AntonioRdC?label=Followers&logo=GitHub&style=for-the-badge)](https://github.com/AntonioRdC)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonioribeiroam/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://antdeveloper.com.br/)
